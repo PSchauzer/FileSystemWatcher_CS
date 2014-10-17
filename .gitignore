@@ -1,0 +1,17 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+
+# Executables
+*.exe
+
+# Source files
+*.cs
